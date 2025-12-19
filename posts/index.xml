@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Склад бумажного хлама</title>
+    <link>http://localhost:1313/posts/</link>
+    <description>Recent content in Posts on Склад бумажного хлама</description>
+    <generator>Hugo</generator>
+    <language>ru-ru</language>
+    <lastBuildDate>Fri, 19 Dec 2025 16:03:59 +0300</lastBuildDate>
+    <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Вторая запись</title>
+      <link>http://localhost:1313/posts/%D0%B2%D1%82%D0%BE%D1%80%D0%BE%D0%B9-%D0%BF%D0%BE%D1%81%D1%82/</link>
+      <pubDate>Fri, 19 Dec 2025 16:03:59 +0300</pubDate>
+      <guid>http://localhost:1313/posts/%D0%B2%D1%82%D0%BE%D1%80%D0%BE%D0%B9-%D0%BF%D0%BE%D1%81%D1%82/</guid>
+      <description>&lt;h2 id=&#34;оценка-ползучести-в-вч-мэмс-устройствах&#34;&gt;Оценка ползучести в ВЧ МЭМС-устройствах&lt;/h2&gt;&#xA;&lt;h3 id=&#34;введение&#34;&gt;Введение&lt;/h3&gt;&#xA;&lt;p&gt;Рассматриваются ВЧ МЭМС-переключатели ёмкостного типа — устройства с подвешенной алюминиевой мембраной, которая под действием электростатической силы опускается на диэлектрический слой (нитрид кремния). Основная проблема надёжности таких переключателей — изменение характеристик со временем. Два ключевых механизма деградации: зарядка диэлектрика и механическая ползучесть алюминиевой мембраны. В отличие от зарядки, ползучесть изучена слабо, хотя при высоких напряжениях и температуре она может приводить к необратимым деформациям и сдвигу напряжения срабатывания.&#xA;&lt;img src=&#34;http://localhost:1313/1.png&#34; alt=&#34;Test Image&#34;&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Знакомство с машинами</title>
+      <link>http://localhost:1313/posts/%D0%BF%D0%B5%D1%80%D0%B2%D1%8B%D0%B9-%D0%BF%D0%BE%D1%81%D1%82/</link>
+      <pubDate>Tue, 18 Nov 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/%D0%BF%D0%B5%D1%80%D0%B2%D1%8B%D0%B9-%D0%BF%D0%BE%D1%81%D1%82/</guid>
+      <description>Коротко о машинах, про которые будет это дневник</description>
+    </item>
+  </channel>
+</rss>
